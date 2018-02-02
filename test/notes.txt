@@ -1,3 +1,1 @@
 an area for class notes
-
-my[course notes](./notes.txt)
