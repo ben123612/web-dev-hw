@@ -1,0 +1,13 @@
+## Responses
+
+-Data can be sent from one device to another over the internet through
+a package. Packets send binary information and often large files have to be
+broken into several packets in order to be sent efficiently.
+-An IP or internet protocol address is a series of numbers that each specific device
+has in order to be identified. A DNS associates name with an IP address, making it easier
+to identify.
+-A cookie is basically an ID card that a website sends to your computer after
+you have visited the website. The purpose of a cookie it to give your computer
+a piece of information that can be called when you re-visit that site in order to
+be recognized.
+-The three main parts to a URL are protocol, domain name and path.
