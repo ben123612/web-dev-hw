@@ -11,4 +11,4 @@ please read my [responses](./responses.txt) regarding internet protocols and sys
 -One issue that I had was making the link for my respons page. I first tried to build it by writing "please read my [responses]regarding internet protocol and systems" with the file path
 after that. After several tried I could not see the link on my page, I realized that I needed to put the file path directly after "[response]" and then follow it by "regarding internet protocol systems" in order to put my link in the desired place.
 
-![my screenshot](./response_image.PNG)
+![my screenshot](./images/response_image.PNG)
