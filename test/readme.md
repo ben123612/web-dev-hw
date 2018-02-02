@@ -1,3 +1,5 @@
-#Test readme file
+# Test readme file
 
-added a test directory and file
+This is a new file
+
+my[course notes](./notes.txt)
