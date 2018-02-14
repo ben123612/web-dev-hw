@@ -17,4 +17,4 @@ I corrected the spelling the image linked perfectly.
 
 
 
-![Image of my atom editor](./web-dev-hw/Project-1/root/images/screenshot.PNG)
+![Image of my atom editor](./images/screenshot.PNG)
