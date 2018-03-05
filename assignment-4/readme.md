@@ -1,6 +1,6 @@
   # work flow for assignment3
 
-  -**"Alt-Text"**- Alt-text can be described as an alternative text attribute, used to describe the image and by screen readers for the hearing impaired.
+  -**Alt-Text**- Alt-text can be described as an alternative text attribute, used to describe the image and by screen readers for the hearing impaired.
 
   -**Forms**-Being someone who uses the internet very often, I have come across all of the forms we discussed in this section. The most basic definition of a form is a space in a webpage, set up by developers, allowing them to collect information based on user input.
 
