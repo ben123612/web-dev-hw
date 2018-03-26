@@ -9,33 +9,48 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
       <style>
-             body{background-color:powderblue}
-             h1{color:blue}
+      h1{color:blue}
+      body {
+
+            background-color:powderblue;
+      }
+       .border {
+                  width: 600px;
+                  margin: auto;
+                  padding: 20px;
+                  border: 1px solid black;
+                                           }
       </style>
    </head>
 
    <body>
-<div>
-    <h1>For more recipes, join my email list. Enter your first name, last name and email to recieve weekly emails with recipe!</h1>
-  </div>
-     <div class="border">
                <center> <a href="../index.html">HOME</a> <a href="./about.html">ABOUT</a>  </center>
-               <h2>HTML Forms</h2>
 
-               <form action="/action_page.php">
-                 First name:<br>
-                 <input type="text" name="firstname" value="Type your first name here">
-                 <br>
-                 Last name:<br>
-                 <input type="text" name="lastname" value="Type your last name here">
-                 <br><br>
-                 Email:<br>
-                 <input type="email" name="Type your email here"><br>
+               <div class="border">
+                   <h1>For more recipes, join my email list. Enter your first name, last name and email to recieve weekly emails with recipe!</h1>
+                 </div>
+                    <div class="border">
 
-                 <input type="submit" value="Submit">
-               </form action="sendtomyemail@email.com">
+                              <h2>HTML Forms</h2>
 
-</div>
+                              <form action="/action_page.php">
+                                First name:<br>
+                                <input type="text" name="firstname" value="Enter your first name here">
+                                <br>
+                                Last name:<br>
+                                <input type="text" name="lastname" value="Enter your last name here">
+                                <br><br>
+                                Email:<br>
+                                <input type="email" name="email" value="Enter your Email here"><br>
+
+                                <input type="submit" value="Submit">
+                              </form action="sendtomyemail@email.com">
+
+               </div>
+
+
+
+<center> <a href="../index.html">HOME</a> <a href="./about.html">ABOUT</a>  </center>
    </body>
 
 
