@@ -2,7 +2,7 @@ container {
 	width: 800px;
 	height: 800px;
     position: absolute;
-    background-image: url(./Images/fresh-prince.png) ;
+    background-image: url(../Images/fresh-prince.png) ;
 }
 
 .90sfirstimage
