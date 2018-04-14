@@ -2,6 +2,4 @@ container {
 	width: 800px;
 	height: 800px;
     position: absolute;
-    z-index: 1;
-	background-image: url('../Images/fresh-prince.png');
 }
