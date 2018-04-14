@@ -7,10 +7,9 @@ container {
 .90sfirstimage
 {
     position: absolute;
-    width:100px;
-    height:100px;
     left: 40px;
     top: 33px;
-    z-index: 2;
-
+    width:100px;
+    height:100px;
+    z-index: 1;
 }
