@@ -5,13 +5,3 @@ container {
     background-image: url('../Images/fresh-prince.png') ;
     z-index: 1;
 }
-
-.90sfirstimage
-{
-    position: absolute;
-    left: 40px;
-    top: 33px;
-    width:25px;
-    height:25px;
-    z-index: 2;
-}
