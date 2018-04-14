@@ -8,5 +8,5 @@ html {
 	height: 800px;
     position: absolute;
     z-index: 1;
-    background-image: url('../Images/fresh-prince.png') ;
+    background-image: url('../Images/fresh-prince.png') width="800" height="800";
 }
