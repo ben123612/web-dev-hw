@@ -3,5 +3,5 @@ container {
 	height: 800px;
     position: absolute;
     z-index: 1;
-	background-image: url('https://www.pinterest.com/pin/420101471464687610/');
+	background-image: url('./Images/fresh-prince.png');
 }
