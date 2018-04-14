@@ -1,7 +1,12 @@
+
+html {
+	padding: 0;
+}
+
 container {
 	width: 800px;
 	height: 800px;
     position: absolute;
-    background-image: url('../Images/fresh-prince.png') ;
     z-index: 1;
+    background-image: url('../Images/fresh-prince.png') ;
 }
