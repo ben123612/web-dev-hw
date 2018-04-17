@@ -10,10 +10,14 @@ html {
     z-index: 1;
     background-image: url('../Images/Fresh.jpg') ;
 }
-
-.Backround{
-color: Blue
-
+.box1{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background-color: rgba(255, 255, 255, 0.65);
+}
 
 }
 .lovethe90s
