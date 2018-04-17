@@ -15,19 +15,8 @@ html {
 
 .lovethe90s
 {
-    width:50px;
-    height:50px;
 		position: absolute;
-		left: 10px;
-		bottom: 50px;
-}
-
-.firstimage
-{
-	  position: absolute;
-	  right: : 200px;
-    bottom: :275px;
-    z-index: 3;
-    width:200px;
-    height:50px;
+		left:100 px;
+		bottom: 700px;
+		
 }
