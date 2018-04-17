@@ -15,8 +15,12 @@ html {
 
 .lovethe90s
 {
-		border-color: hotpink;
-		right:0 px;
-		top: 800px;
+		border-style: dashed;
+		border width 10px;
+		border-color: blue;
+		width: 75px;
+		height: 75px;
     position: absolute;
+		bottom: 700px;
+		right:100px;
 }
