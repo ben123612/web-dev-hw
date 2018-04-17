@@ -7,7 +7,7 @@ html {
 	width: 800px;
 	height: 800px;
 	border-style: solid;
-	 border-width: 115px;
+	 border-width: 50px;
 	 border-color: hotpink;
     background-image: url('../Images/Fresh.jpg') ;
 }
@@ -16,7 +16,7 @@ html {
 .lovethe90s
 {
 		position: absolute;
-		left:100 px;
-		bottom: 700px;
-		
+		left:0 px;
+		bottom: 800px;
+
 }
