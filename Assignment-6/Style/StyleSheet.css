@@ -15,8 +15,8 @@ html {
 
 .lovethe90s
 {
-		position: absolute;
+		border-color: hotpink;
 		right:0 px;
 		top: 800px;
-
+    position: absolute;
 }
