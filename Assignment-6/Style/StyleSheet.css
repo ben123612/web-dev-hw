@@ -16,15 +16,14 @@ html {
   position: absolute;
   top: 200px;
   left: 200px;
-  background-color: rgba(255, 255, 255, 0.65);
 }
 
 }
 .lovethe90s
 {
 	  position: absolute;
-	  right: : 600px;
-    bottom: : 600px;
+	  right: : 100px;
+    bottom: : 100px;
     z-index: 2;
     width:200px;
     height:200px;
