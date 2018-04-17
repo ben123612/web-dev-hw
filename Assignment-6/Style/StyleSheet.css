@@ -22,8 +22,9 @@ html {
 
 .firstimage
 {
+	  position: absolute;
 	  right: : 200px;
-    bottom: :2000px;
+    bottom: :275px;
     z-index: 3;
     width:25px;
     height:50px;
