@@ -23,10 +23,10 @@ html {
 
 .firstimage
 {
-	  position: fixed;
+	  position: absolute;
 	  right: : 200px;
     bottom: :275px;
     z-index: 3;
-    width:25px;
+    width:200px;
     height:50px;
 }
