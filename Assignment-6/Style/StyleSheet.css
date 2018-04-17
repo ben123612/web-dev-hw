@@ -24,3 +24,7 @@ html {
 		bottom: 100px;
 		left:100px;
 }
+
+p {
+    border: 1px solid powderblue;
+}
