@@ -3,7 +3,7 @@ html {
 	padding: 0;
 }
 
-#container {
+.container {
 	width: 800px;
 	height: 800px;
 	border-style: solid;
