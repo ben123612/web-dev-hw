@@ -7,7 +7,7 @@ html {
 	width: 800px;
 	height: 800px;
 	border-style: solid;
-	 border-width: 4px;
+	 border-width: 15px;
 	 border-color: hotpink;
     background-image: url('../Images/Fresh.jpg') ;
 }
