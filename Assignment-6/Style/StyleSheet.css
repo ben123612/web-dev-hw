@@ -17,7 +17,7 @@ html {
 {
    	width: 75px;
    	height: 75px;
-		border-style: dashed;
+		border-style:solid;
 		border width 10px;
 		border-color: blue;
     position: absolute;
