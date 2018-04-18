@@ -3,6 +3,11 @@ html {
 	padding: 0;
 }
 
+body {
+  width: 800px;
+  height: 800px;
+}
+
 #container {
 	width: 800px;
 	height: 800px;
