@@ -62,11 +62,11 @@ p {
 }
 
 .font{
-	color: pink;
+	color: black;
 }
 
 p.font{
 
-	border-color: powderblue;
+	background-color: red;
 
 }
