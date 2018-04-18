@@ -53,5 +53,15 @@ z-index: 1;
 
 
 p {
-    border: 1px solid powderblue;
+    border: 1px solid purple;
+}
+
+.font{
+	color: pink;
+}
+
+p.font{
+
+	border-color: powderblue;
+
 }
