@@ -3,9 +3,12 @@ html {
 	padding: 0;
 }
 
-.container {
+#container {
 	width: 800px;
 	height: 800px;
+	position: absolute;
+	left: 300;
+	z-index:1;
 	border-style: solid;
 	 border-width: 50px;
 	 border-color: hotpink;
