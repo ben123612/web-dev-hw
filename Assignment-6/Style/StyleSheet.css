@@ -32,10 +32,10 @@ html {
 		position: absolute;
 		opacity: .75;
 		left:20px;
-		top:20px;
+		bottom:20px;
 		z-index: 3
-		width: 780px;
-		height: 100px;
+		width: 150px;
+		height: 150px;
 
 	}
 
