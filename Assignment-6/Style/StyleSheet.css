@@ -18,12 +18,25 @@ html {
 .lovethe90s
 {
     position: absolute;
-		opacity: .5;
+		transform: rotate(30deg);
+		opacity: .25;
 	  right: 90px;
-    bottom: 140px;
+    bottom: 500px;
     z-index: 2;
-    width:150px;
-    height:150px;
+    width:300px;
+    height:300px;
+	}
+
+	.thefirstimage{
+		position: absolute;
+		opacity: .75;
+		left:20px;
+		top:20px;
+		z-index: 3
+		width: 780px;
+		height: 100px;
+
+	}
 
 p {
     border: 1px solid powderblue;
