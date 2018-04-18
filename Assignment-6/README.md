@@ -1,6 +1,6 @@
 # Assignent 6
 
-**The 90s**
+**The 1990s**
 -For this assignment my design was relatively simple. I added a few
 images that were provided, a GIF from the internet and some text. Instead of using
 3 different backround colors, I decided to use a backround image. I did however use colors
