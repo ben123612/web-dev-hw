@@ -27,15 +27,12 @@ html {
     height:300px;
 	}
 
-	.thefirstimage
+.carlton
 	{
 		position: absolute;
-		opacity: .75;
 		left:20px;
 		bottom:20px;
 		z-index: 3
-		width: 150px;
-		height: 150px;
 
 	}
 
