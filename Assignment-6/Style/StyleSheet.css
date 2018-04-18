@@ -24,6 +24,9 @@ html {
     z-index: 2;
     width:300px;
     height:300px;
+		border-style: solid;
+		 border-width: 10px;
+		 border-color: blue;
 	}
 
 .carlton
@@ -31,6 +34,9 @@ html {
 		position: absolute;
 		left:20px;
 		bottom:20px;
+		border-style: solid;
+		 border-width: 10px;
+		 border-color: orange;
 		z-index: 3
 
 	}
@@ -40,7 +46,7 @@ position: absolute;
 left: 20px;
 top: 20px;
 width: 780px;
-height: 100px;
+height: 200px;
 z-index: 1;
 
 }
