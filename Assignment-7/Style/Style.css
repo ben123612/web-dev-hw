@@ -13,3 +13,19 @@ background-color: yellow;
   padding: 20px;
   border: 4px solid black;
 }
+
+h1{
+  font-family: sans-serif;
+  text-align:center;
+}
+
+
+h2{
+  font-family:serif;
+  text-align: center;
+}
+
+h3{
+  font-family:serif;
+  text-align: center;
+}
