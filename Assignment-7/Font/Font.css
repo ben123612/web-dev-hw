@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+h1{
+  font-family:'Gamja+Flower', sans-serif;
+  text-align:center;
+}
+
+
+h2{
+  font-family:'Gamja+Flower',serif;
+  text-align: center;
+}
+
+h3{
+  font-family:'Gamja+Flower',serif;
+  text-align: center;
+}
