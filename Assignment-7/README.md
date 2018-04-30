@@ -1,4 +1,4 @@
-# Assignent
+# Assignment 7
 
 **Friday Night LIGHTS**
 -For this assignment my design was simple. I decided to put the text inside of a container
