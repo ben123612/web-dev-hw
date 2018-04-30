@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 
 @font-face {
-font-family: 'Gamja+Flower';
-src: url('https://fonts.googleapis.com/css?family=Gamja+Flower') format('opentype');
+font-family: 'Indie+Flower';
+src: url('./Indie_Flower/IndieFlower.ttf') format('opentype');
 font-weight: ;
 font-style: ;
 }
