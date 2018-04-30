@@ -7,6 +7,14 @@ src: url('./Indie_Flower/IndieFlower.ttf') format('opentype');
 font-weight: ;
 font-style: ;
 }
+
+@font-face {
+font-family: 'Gamja+Flower';
+src: url('./Gamja_flower/GamjaFlower-Regular.ttf') format('opentype');
+font-weight: ;
+font-style: ;
+}
+
 h1{
   font-family:'Gamja+Flower', sans-serif;
   text-align:center;
