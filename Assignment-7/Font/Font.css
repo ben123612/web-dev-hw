@@ -14,23 +14,22 @@ src: url('./Gamja_flower/GamjaFlower-Regular.ttf') format('opentype');
 font-weight: ;
 font-style: ;
 }
-body{
-h1{
+
+.h1{
   font-family:'Gamja+Flower', sans-serif;
   text-align:center;
 }
 
 
-h2{
+.h2{
   font-family:'Gamja+Flower',serif;
   text-align: center;
 }
 
-h3{
+.h3{
   font-family:'Gamja+Flower',serif;
   text-align: center;
 }
 #Mainfont{
   font-family: 'Indie+Flower', serif;
-}
 }
