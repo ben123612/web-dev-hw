@@ -1,0 +1,16 @@
+html {
+	padding: 0;
+}
+
+body {
+text-align: center;
+background-color: yellow;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+  padding: 20px;
+  border: 4px solid black;
+	background-color: White;
+}
