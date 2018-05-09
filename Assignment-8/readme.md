@@ -7,4 +7,4 @@
    -All I can say for this weeks assignment was that it was a challenge and
    I struggled to complete the requirements for the assignment.
 
-![my screenshot](./Images/screenShot.PNG)
+![my screenshot](./Images/Capture.PNG)
